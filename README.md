@@ -122,7 +122,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/fedelanYTF/Cuervo_Bot && cd Cuervo_Bot
+git clone https://github.com/fedelanYTCLUB/Leon_Bot && cd Leon_Bot
 ```
 
 ```bash
@@ -142,40 +142,6 @@ npm start
 
 ---
 
-### 🍭 `HOSTINGS INFORMACION`
-
-![Informacion](https://qu.ax/LgBRM.jpg)
-
-<details>
- <summary><b> 🎩 𝗛𝗢𝗦𝗧𝗜𝗡𝗚𝗦 𝗗𝗘 𝗖𝗔𝗟𝗜𝗗𝗔𝗗</b></summary>
-
-###  **`🍬 LUMINARY'S - HOSTING`**
-<a href="https://dash.luminarys.shop/home"><img src="https://qu.ax/aHudo.jpg" height="145px"></a>
-
-<details>
- <summary><b>🍂 Servidor Luminary's - Host</b></summary>
-
-* Dashboard: [`Dash`](https://dash.luminarys.shop)
-* Panel: [`Panel`](https://panel.luminarys.shop)
-* Grupo: [`Aquí`](https://chat.whatsapp.com/L29DaYhqORo2wBEF95j9D3)
-* Contacto(s): [`Vegeta`](https://wa.me/526633900512) / [`Marcos`](https://wa.me/525653326435) / [`Adrian`](https://wa.me/595976126756)
-
-</details>
-
-#### **`☁️ SKY ULTRA PLUS`**
-
-<a
-href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
-
-<details>
- <summary><b> 🌹 servidor Sky</b></summary>
-
-* Dashboard  [`Dash`](https://dash.skyultraplus.com)
-* Panel [`Panel`](https://panel.skyultraplus.com)
-* Canal de WhatsApp [`Canal sky`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
-* Contacto(s) [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
-* Discord [`SkyUltraPlus`](https://discord.gg/Ph4eWsZ8)
 
 </details>
 
