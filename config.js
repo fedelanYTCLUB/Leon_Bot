@@ -37,20 +37,20 @@ global.sessions = 'CrowSession'
 global.jadi = 'CrowJadiBot' 
 global.yukiJadibts = true // Activado
 global.ch = {
-ch1: '120363387375075395@newsletter',
-ch2: '120363368073378190@newsletter'
+ch1: '120363402097425674@newsletter',
+ch2: '120363402097425674@newsletter'
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '【★】𝐒𝐭𝐚𝐫𝐕𝐨𝐢𝐝-𝐂𝐥𝐮𝐛 ❖'
-global.botname = '(✦◠‿◠)𝑪𝒓𝒐𝒘𝑩𝒐𝒕-𝑺𝑻'
-global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ 𝑪𝒓𝒐𝒘𝑩𝒐𝒕 - 𝑺𝑻 ୭'
-global.author = '(⁎˃ᴗ˂⁎)𝐌𝐚𝐝𝐞 𝐁𝐲 𝐒𝐭𝐚𝐫𝐕𝐨𝐢𝐝-𝐂𝐥𝐮𝐛𓆪'
-global.dev = '© 𝖯᥆𝗐ᥱ𝗋ᥱძ ᑲᥡ 𝖲ᥙᥒ𝖿ᥣᥲ𝗋ᥱ  ☂︎  𝖳ᥱᥲ𝗆'
+global.packname = '【💙】𝘓𝘦𝘰𝘯_𝘉𝘰𝘵-𝘊𝘭𝘶𝘣❖'
+global.botname = '(✦◠‿◠)𝘓𝘦𝘰𝘯_𝘉𝘰𝘵-𝘊𝘭𝘶𝘣'
+global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ💙★ ׄ ꒱ 𝐋𝐞𝐨𝐧_𝐁𝐨𝐭 - 𝐂𝐥𝐮𝐛 ୭'
+global.author = '(⁎˃ᴗ˂⁎)𝐌𝐚𝐝𝐞 𝐁𝐲 𝐋𝐞𝐨𝐧_𝐁𝐨𝐭-𝐂𝐥𝐮𝐛𓆪'
+global.dev = '© 𝘓𝘦𝘰𝘯_𝘉𝘰𝘵 𝘉𝘺 𝘍𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
 global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨, 𝐄𝐬𝐭𝐚𝐦𝐨𝐬 𝐄𝐧𝐯𝐢𝐚𝐧𝐝𝐨 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 (✿◠‿◠)'
-global.namebot = 'ᥴr᥆ᥕᑲ᥆𝗍 s𝗍'
-global.textbot = `「 🔱 𝐂𝐫𝐨𝐰𝐁𝐨𝐭 - 𝐒𝐓 🔱 」`
+global.namebot = '𝘓𝘦𝘰𝘯_𝘉𝘰𝘵'
+global.textbot = `「 💙 𝐋𝐞𝐨𝐧 - 𝐁𝐨𝐭 💙 」`
 global.vs = '2.2.0'
 global.publi = '✰𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥👇'
 
