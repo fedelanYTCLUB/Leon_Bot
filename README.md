@@ -26,9 +26,9 @@ ___
 ___
 
 
-## 💛 **`C R O W - B O T`**    
+## 💙 **`L E O N - B O T`**    
 
-![Menú Principal](https://files.catbox.moe/v8q8y2.jpg)
+![Menú Principal](https://files.catbox.moe/ctmxtg.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>   
 
