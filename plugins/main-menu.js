@@ -167,7 +167,7 @@ let img = 'https://files.catbox.moe/koniwc.jpg'; // valiendo vrg con los links
           externalAdReply: {
               title: textbot,
               body: dev,
-              thumbnailUrl: imagen,
+              thumbnailUrl: img,
               sourceUrl: redes,
               mediaType: 1,
               showAdAttribution: true,
