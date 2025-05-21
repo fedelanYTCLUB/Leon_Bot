@@ -17,14 +17,6 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 
 ___
 
-# **`📩 Donaciones`**
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/starcoreNinoPina)
-[![Donen Pijes](https://img.shields.io/badge/Donar-E4405F?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/crowclub#pageMessageModal)
-
-
-___
-
 
 ## 💙 **`L E O N - B O T`**    
 
@@ -164,34 +156,10 @@ href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" hei
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-#### **`🌌 Hosting Py:`**
-
-<a
-href="https://dash.hostingpy.shop/"><img src="https://files.catbox.moe/lr92z2.jpg" height="125px"></a>
-
-<details>
- <summary><b> 🌠 Servidor HostingPy</b></summary>
-
-* Dashboard  [`Dash`](https://dash.hostingpy.shop)
-* Panel [`Panel`](https://panel.hostingpy.shop)
-* Canal de WhatsApp [`Canal Hosting`](https://whatsapp.com/channel/0029Vak4e1R4NVifmh8Tvi3q)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/HT9YFbWTuqO0DQrq6Xxhvx)
-* Contacto(s) [`Soporte`](https://wa.me/595976126756)
-
-> **`Usa Mi Código de Referencia`**:
- LgZKVYOK
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 
 </details>
 
 </details>
-
-## 🐦‍🔥 **`COLABORADORES`**
-<a href="https://github.com/The-king-Destroy"><img src="https://github.com/The-king-Destroy.png" width="100" height="100" alt="The-king-Destroy"/></a>
-<a href="https://github.com/Manuel12yt"><img src="https://github.com/Manuel12yt.png" width="100" height="100" alt="Manuel12yt"/></a>
 
 
 ## **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
